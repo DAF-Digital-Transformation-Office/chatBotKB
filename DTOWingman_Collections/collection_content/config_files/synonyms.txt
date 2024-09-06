@@ -1,0 +1,125 @@
+PLM | Product Lifecycle Management
+TDP | Technical Data Package
+TEMP | Test and Evaluation Master Plan
+Configuration Status Accounting | CSA
+QAP | Quality Assurance Provisions
+ACD | Allocated Configuration Documentation
+MBSE | Model-Based Systems Engineering
+Model-Based Systems Engineering | MBSE
+DTw | Digital Twin
+Statement of Work | SOW
+Mbe | Model-Based Engineering
+High Performance Computing | HPC
+CBM | Condition Based Maintenance
+SOW | Statement of Work
+GUI | Graphical User Interface
+Model-Based Engineering | Mbe
+Graphical User Interface | GUI
+CSA | Configuration Status Accounting
+Digital Twin | DTw
+Model-Based Enterprise | MBE
+Condition Based Maintenance | CBM
+digital material management | DMM
+MBE | Model-Based Enterprise
+OMG | Object Management Group
+Product Lifecycle Management | PLM
+RFP | Request for proposal
+HPC | High Performance Computing
+CI | Configuration Item
+Product Baseline | PBL
+Object Management Group | OMG
+Quality Assurance Provisions | QAP
+Technical Data Package | TDP
+Computer Software Configuration Item | CSCI
+DMM | digital material management
+Special Packaging Instruction | SPI
+SPI | Special Packaging Instruction
+Test and Evaluation Master Plan | TEMP
+Request for proposal | RFP
+CSCI | Computer Software Configuration Item
+PBL | Product Baseline
+Allocated Configuration Documentation | ACD
+Configuration Item | CI
+Federal Acquisition Regulation | FAR
+Services Designated Official | SDO
+Air Force Instruction | AFI
+Accrued Expenditure Paid | AEP
+Major Command | MAJCOM
+Statement of Work | SOW
+Federal Supply Classification | FSC
+Fund Cite Authorization | FCA
+Department of Defense | DoD
+Department of Defense Instruction | DoDI
+National Defense Authorization Act | NDAA
+Stock Record Account Number | SRAN
+Resource Advisor/Resource Manager | RA/RM
+Intragovernmental Transactions | IGT
+Performance Work Statement | PWS
+Commitment Balance | COM
+General Terms and Conditions | GT&C
+Air Force Policy Directive | AFPD
+Memorandum of Understanding | MOU
+Records Disposition Schedule | RDS
+Air Force Personnel Center | AFPC
+Quality Assurance Surveillance Plan | QASP
+Commander’s Resource Information System | CRIS
+Determinations and Findings | D&F
+Government Purchase Card | GPC
+Office of Primary Responsibility | OPR
+Contracting Officer Representative | COR
+Regular Air Force | RegAF
+Department of Defense Financial Management Regulation | DoD FMR
+Program Summary Record | PSR
+Budget Program Activity Code | BPAC
+Defense Enterprise Accounting and Management System | DEAMS
+Defense Finance Accounting Service | DFAS
+Accrued Expenditure Unpaid | AEU
+Automated Business Services System | ABSS
+Direct Reporting Unit | DRU
+Field Operating Agency | FOA
+Independent Government Estimate | IGE
+Business Event Transaction Code | BETC
+Non-Department of Defense | Non-DoD
+Statement of Objectives | SOO
+Responsibility Center/Cost Center | RCCC
+Office of Management and Budget | OMB
+Fiscal Service | FS
+Point of Contact | POC
+Air Force Reserve | AFR
+Sales Code | SC
+Intra-Governmental Payment and Collection system | IPAC
+Business Partner Number | BPN
+Standard Document Number | SDN
+Appropriation | Expenditure
+Small Business | SB
+Air National Guard | ANG
+General Accounting and Finance System | GAFS-BQ
+Financial Management | FM
+Senior Executive Service | SES
+United States Code | U.S.C.
+Chief of Staff, United States Air Force | CSAF
+Small Business Professional | SBP
+Air Force Manual | AFMAN
+Financial Management Analysis | FMA
+Information Technology | IT
+Research and Development | R&D
+Undelivered Order Outstanding | UOO
+Request for Proposal | RFP
+Air Force Federal Acquisition Regulation Supplement | AFFARS
+Miscellaneous Obligation Reimbursement Document | MORD
+Chief Master Sergeant of the Air Force | CMSAF
+Performance-Based Services Acquisition | PBSA
+Detail Summary Record | DSR
+Air Force | AF
+Program Manager | PM
+Treasury Account Symbol | TAS
+Funds Summary Record | FSR
+Military Interdepartmental Purchase Request | MIPR
+Financial Management Suite | FMSuite
+Joint Travel Regulations | JTR; travel regulations
+Temporary Duty | TDY
+Federally Funded Research and Development Center | FFRDC
+Open Document Listing | ODL
+Purchase Request | PR
+Element Expense/Investment Code | EEIC
+Justification and Approval | J&A

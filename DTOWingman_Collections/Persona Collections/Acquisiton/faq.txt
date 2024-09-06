@@ -1,0 +1,413 @@
+Q: How will projects be funded?
+A: Many of the projects we’re focused on are already funded through their respective organizations—we’re simply helping them optimize and connect with one another. In cases where projects have high potential to scale and make a significant impact in achieving Department-wide objectives, DTO matching investments may be available. The DTO and other digital champions will continue to pursue and secure funding for enterprise-wide digital enablers.
+
+Q: How can external partners get involved in this initiative?
+A: We’re eager to engage current and potential partners as we build out this initiative, and will share more information on opportunities for collaboration in the coming weeks. To learn more visit daftdto.com/get-involved.
+
+Q: What are the Digital Engineering features used for? 
+A: Acquisitions that would like to use digital engineering need to identify the features that meet their overall acquisition objectives.  From the acquisition’s digital engineering modeling objectives the needed DE features are selected along with their feature choices.  The DE features and feature choices are used to determine the SOW/PWS inputs and standards to put on contract as well as the CDRLs/DIDs. 
+
+Q: Why aren’t complete SOW/PWS templates provided as a part of this guidance? 
+A: Each acquisition develops its own unique requirements which, in part, would contain digital engineering features as applicable to that program.  To develop an entire template SOW/PWS would be impracticable given the fact that all programs would not have identical requirements (digital engineering related, or otherwise).  Instead, this guidance seeks to provide a “critical thinking” path for inclusion of just the applicable digital engineering features and their associated SOW/PWS language that would be included in that program’s overall requirements determination. 
+
+Q: Will corresponding Data Item Descriptions (DIDs) and Contract Data Requirement Lists (CDRLs) be included in this guidance?   
+A: Absolutely, we fully intend to add an additional tab which maps applicable DIDs/CDRLs to each feature.  This research/development is being accomplished by a different LOE team, so we currently don’t have any DE specific DIDs/CDRLs to populate this tab.  In the meantime we have provided guidance in the form of a slide deck that addresses the current situation with regard to that development. (Reference “DE Features and CDRLs Alignment (23 Feb 2021)” https://usaf.dps.mil/teams/afmcde/SitePages/Model-based-Contract-Language.aspx 
+
+Q: Will digital engineering related contract clauses be included in this guidance? 
+A: At this point the AFMC Digital Campaign team reviewing policy impacts has not identified any specific need for unique DE-related clauses, but should something like that be created, then we would definitely map such a clause within this matrix. 
+
+Q: Will there be inclusion of associated engineering technical content in this guidance? 
+A: While some technical content will be in the SOW/PWS (and also in DIDs/CDRLs), keep in mind that program specific technical content is unique to any RFP development.  Recognizing that it would be helpful to have additional engineering input to enhance our matrix, we will continue to seek ways to add applicable content as it is made available.  For additional guidance please reference: https://usaf.dps.mil/teams/afmcde/SitePages/Acquisition-and-Sustainment-Data-Package.aspx 
+
+Q: What is Accreditation
+A: In the Context of Modeling and Simulation Accreditation means the official certification that a model or simulation and its associated data are acceptable for a specific purpose or use.; Source: DAU Glossary
+
+Q: What is Allocated Baseline
+A: Documentation that designates the Configuration Items (CIs) making up a system and then allocates the system function and performance requirements across the CIs (hence the term “allocated baseline”). It includes all functional and interface characteristics that are allocated from those of a higher-level CI or from the system itself, derived requirements, interface requirements with other CIs, design restraints, and the verification required to demonstrate the achievement of specified functional and interface characteristics. The performance of each CI in the allocated baseline is described in its item performance specification.; Source: DAU Glossary
+
+Q: What is Allocated Configuration Documentation
+A: The documentation describing a CI's functional, performance, and interoperability requirements that are allocated from those of a system or higher level configuration item; interface requirements with interfacing configuration items; and the verifications required to confirm the achievement of those specified requirements.; Source: GEIA-HB649A
+
+Q: What is American Society of Mechanical Engineers
+A: A not-for-profit professional organization that enables collaboration, knowledge sharing and skill development across all engineering disciplines, while promoting the vital role of the engineer in society; Source: ASME
+
+Q: What is Architecture
+A: The structure of components, their relationships, and the principles and guidelines governing their design and evolution over time.; Source: DAU Glossary
+
+Q: What is Architecture Data
+A: Facts, characteristics, and concepts that define the structure of a system and the interrelationships between its parts and its environment. The data is created in a manner suitable for communication, interpretation, or processing by humans or by automatic means. ; Source: DAU Glossary
+
+Q: What is Architecture Design	
+A: Systems Engineering technical process by which the Program Manager and Systems Engineer, often through system modeling, trade-offs, and decision analyses, capture the functional requirements and interdependencies in the system architecture. Trade-offs and analyses are also used to mature and realize the design of the system and system elements during the Implementation process, generating the product baseline. Architecture Design translates the outputs of the Stakeholder Requirements Definition and Requirements Analysis processes into alternative design solutions and establishes the architectural design of candidate solutions that may be found in a system model. Architecture Design process, combined with Stakeholder Requirements Definition and Requirements Analysis, provides key insights into technical risks early in the acquisition life cycle, allowing for early development of mitigation strategies.; Source: DAU Glossary
+
+Q: What is Architecture Viewpoints and Models
+A: Visualizing architectural data is accomplished through models. Department of Defense Architecture Framework (DoDAF) described models are grouped into viewpoints. Models can be documents, spreadsheets, dashboards, or other graphical representations and serve as a template for organizing and displaying data in a more easily understood format. When data are collected and presented as a "filled-in" model, the result is called a view. Organized collections of views (often representing processes, systems, services, standards, etc.) are referred to as viewpoints and, with appropriate definitions, are collectively called the Architectural Description. Department of Defense Architecture Framework (DoDAF) Viewpoints are: All, Capability, Data and Information, Operational, Project, Services, Standards, and Systems.; Source: DAU Glossary
+
+Q: What is As-Built Configuration
+A: The configuration of an item as actually produced. The as-built configuration consists of the as designed configuration at the time of production as modified with approved engineering changes and variances. In addition, if the as-designed configuration consists of design alternatives, the as-built configuration reflects the actual produced- item. NOTE: The as-built configuration may be referred to as the as delivered configuration in some cases. In other cases, the as delivered and as-maintained configurations may be further modification of the as-built configuration. When this distinction exists, the exact definition of each must be described in the CM Plan.; Source: GEIA-HB-649A
+
+Q: What is As-designed Configuration
+A: The configuration of an item as documented by the design activity; Source: GEIA-HB-649A
+
+Q: What is Assembly
+A: A number of parts, or combination thereof, that are joined together to perform a specific function and subject to disassembly without degradation of any of the parts, e.g., power shovel-front, fan assembly, audio frequency amplifier, etc. NOTE: The distinction between an assembly and a subassembly is determined by individual application. An assembly in one instance may be a subassembly in another instance where it forms a portion of a higher assembly; Source: ASME Y14.100
+
+Q: What is Associated List
+A: A tabulation of engineering information pertaining to an item depicted on an engineering drawing or by a set of drawings, e.g., parts list, data list, index list, wire list, and application list.; Source: ASME 14.34
+
+Q: What is Authoritative Source of Truth
+A: The Authoritative Source of Truth (ASoT) captures the current state and the history of the technical baseline. It serves as the central reference point for models and data across the lifecycle. The authoritative source of truth will provide traceability as the system of interest evolves, capturing historical knowledge, and connecting authoritative versions of the models and data.
+; Source: Digital Engineering Strategy
+
+Q: What is Automated Information Systems
+A: A combination of computer hardware and computer software, data, and/or telecommunications that performs functions such as collecting, processing, storing, transmitting, and displaying information. Excluded are computer resources, both hardware and software, that are an integral part of a weapons system, used for highly sensitive classified program as determined by the Secretary of Defense (SECDEF), used for other highly sensitive Information Technology (IT) programs as determined by the Under Secretary of Defense for Acquisition, Technology and Logistics (USD(AT&L)) or designee to be better overseen as a non-AIS program. (e.g., a program with a low ratio of Research, Development, Test, and Evaluation (RDT&E) funding to total program acquisition costs or that requires significant hardware development)    
+                                 
+Q: What is Available
+A: A measure of the degree to which an item is in an operable state and can be committed at the start of a mission when the mission is called for at an unknown (random) point in time.; Source: DAU Glossary
+
+Q: What is Cloud
+A: Made up of servers in data centers all over the world. Moving to the cloud can save companies money and add convenience for users; Source: Cloudflare.com
+
+Q: What is Cloud Computing
+A: The on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider; Source: AWS
+
+Q: What is Computer Aided Engineering
+A: The use of computers to aid in the software engineering process.  CASE tools may include the application of software tools to software design, requirements tracing, code production, testing, document generation, and other software engineering activities.  Assemblers and compilers are CASE tools.; Source: DAU Glossary
+
+Q: What is Computer Software
+A: Computer programs, source code, source code listings, object code
+listings, design details, algorithms, processes, flow charts, formula and related material that would enable the software to be reproduced, recreated, or recompiled. Computer software does not include computer data bases or computer software documentation.; Source: DFARS Clause 252.227-7014
+
+Q: What is Computer Software Configuration Item 
+A: An aggregate of software that satisfies an end use function and is designated for purposes of specification, interfacing, qualification testing, CM or other purposes. A CSCI is composed of one or more software units which may consist of:   (1) source code, object code, control code, control data or a collection of these items, (2) an aggregation of software, such as a computer program or database, that satisfies an end use function and is designated for specification, qualification testing, interfacing, CM or other purposes, or (3) an identifiable part of a software product. A CSCI may also be interchangeably termed as a Software Configuration Item (SWCI).; Source: GEIA-HB-649A Adapted from ISO/IEC/IEEE 24765	
+
+Q: What is Conceptual Data Model
+A: A map of concepts and their relationships used for databases. This describes the semantics of an organization and represents a series of assertions about its nature. Specifically, it describes the things of significance to an organization (entity classes), about which it is inclined to collect information, and its characteristics (attributes) and the associations between pairs of those things of significance (relationships).; Source: DIV-1 Viewpoint (DoDAF V2.0) 	
+
+Q: What is Conceptual Design Data	
+A: Engineering design data which describe the engineering concepts on which a proposed technology or design approach is based; Source: MIL-STD 31000B 3.1.18.1
+
+Q: What is Condition Based Maintenance+
+A: Condition Based Maintenance Plus is the application and integration of appropriate processes, technologies, and knowledge-based capabilities to improve the reliability and maintenance effectiveness of Department of Defense (DoD) systems and components.  It’s established by DoD Instruction 4151.22 “CMB+ for Materiel Maintenance”. At its core, CBM+ is maintenance performed based on evidence of need provided by Reliability Centered Maintenance (RCM) analysis and other enabling processes and technologies. CBM+ uses a systems engineering approach to collect data, enable analysis, and support the decision-making processes for system acquisition, sustainment, and operations. CBM+ falls under the umbrella of Total Life Cycle System Management (TLCSM). The goal of CBM+ is to perform maintenance only upon evidence of need.; Source: ACQ Notes
+
+Q: What is Configuration Baseline
+A: Configuration of a product, at a specific point in time, which serves as a basis for defining change, for conducting verifications, and for other management activities. For a software product, the build baseline includes the actual product.; Source: EIA-649C
+
+Q: What is Configuration Item
+A: A product or an aggregation of products that accomplishes an end use function and is deemed to require separate configuration management documentation and control. Configuration items are end items or major components of end items, which typically have performance requirements allocated to them and documented in their own specification; Source: MIL-STD-31000B
+
+Q: What is Configuration Management
+A: A management process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design and operational information throughout its life.; Source: DAU Glossary
+
+Q: What is Configuration Management
+A: (1)The product attributes of an existing or planned product, or a combination of products, i.e., product requirements, the product, and associated product configuration information; (2) one of a series of sequentially created variations of a product.; Source: EIA-649C
+
+Q: What is Configuration Status Accounting
+A: The CM function that formalizes the recording and reporting of the established product configuration information, the status of requested changes, and the implementation of approved changes including changes occurring to product units during operation and maintenance; Source: EIA-649C
+
+Q: What is Critical Safety Item
+A: A part, an assembly, installation equipment, launch equipment, recovery equipment, or support equipment for an aircraft or aviation weapon system if the part, assembly, or equipment contains a characteristic any failure, malfunction, or absence of which could cause: 1) a catastrophic or critical failure resulting in the loss of or serious damage to the aircraft or weapon system; 2) an unacceptable risk of personal injury or loss of life; or 3) an un-commanded engine shutdown that jeopardizes safety.
+; Source:  JACG Critical Safety Item Management Handbook, 16 March 2011	
+
+Q: What is Critical Safety Process
+A: Any fabrication, manufacturing, assembly, installation, repair, or other process or procedure that implements a safety design feature or satisfies system safety requirements.; Source: ASME Y14.100
+
+Q: What is Data
+A: Information represented in a formal manner suitable for communication, interpretation, or processing by human beings or computers; Typically followed by a qualifier or descriptor such as structures data, CFD data, finance data etc.; Source: ASME Y14.41
+
+Q: What is Data Item Description
+A: A completed document defining the data deliverables required of a DOD contractor. A DID specifically defines the data content, format and intended use of the data with a primary objective of achieving standardization of data deliverables by the DOD.; Source: MIL-STD-963
+
+Q: What is Data Model
+A: The definition of all data elements (and their relationships) to be maintained within a PDM system. The data model defines the database schema for the PDM system.; Source: CIMdata
+
+Q: What is Developmental Design Data
+A: Engineering design data which describe the physical and/or performance characteristics of a specific design approach, to the extent necessary to permit the analytical evaluation of the ability of the design approach to meet specified requirements and enable the development, manufacture and testing of prototype or experimental materiel.; Source: MIL-STD 31000B 3.1.18.2
+
+Q: What is DevSecOps
+A: An organizational software engineering culture and practice that aims at unifying software development (Dev), security (Sec) and operations (Ops).                                                                                                                                            The main characteristic of DevSecOps is to automate, monitor, and apply security at all phases of the software lifecycle: plan, develop, build, test, release, deliver, deploy, operate, and monitor. In DevSecOps, testing and security are shifted to the left through automated unit, functional, integration, and security testing - this is a key DevSecOps differentiator since security and functional capabilities are tested and built simultaneously.; Source: DoD Enterprise pdf
+
+Q: What is Digital Artifact
+A: An artifact produced within, or generated from, the digital engineering ecosystem. These artifacts provide data for alternative views to visualize, communicate, and deliver data, information, and knowledge to stakeholders.; Source: DAU Glossary
+
+Q: What is Digital Engineering
+A: An integrated digital approach that uses authoritative sources of systems' data and models as a continuum across disciplines to support lifecycle activities from concept through disposal; Source: DAU Glossary
+
+Q: What is Digital Engineering Ecosystem
+A: The interconnected infrastructure, environment, and methodology (process, methods, and tools) used to store, access, analyze, and visualize evolving systems' data and models to address the needs of the stakeholders.; Source: DAU Glossary
+
+Q: What is Digital System Model
+A: A digital representation of a defense system, generated by all stakeholders that integrates the authoritative technical data and associated artifacts which define all aspects of the system for the specific activities throughout the system lifecycle.; Source: DAU Glossary
+
+Q: What is Digital Thread
+A: An extensible, configurable and component enterprise-level analytical framework that seamlessly expedites the controlled interplay of authoritative technical data, software, information, and knowledge in the enterprise data-information-knowledge systems, based on the Digital System Model template, to inform decision makers throughout a system's life cycle by providing the capability to access, integrate and transform disparate data into actionable information; Source: DAU Glossary
+
+Q: What is Digital Twin
+A: An integrated multi-physics, multiscale, probabilistic simulation of an as-built system, enabled by Digital Thread, that uses the best available models, sensor information, and input data to mirror and predict activities/performance over the life of its corresponding physical twin.; Source: DAU Glossary
+
+Q: What is Digitization
+A: The process of moving information from paper to digital forms (eg., computer files, connected data elements representing a product, managing a configuration and all its dependencies) to transform business; moving to a digital business.; Source: CIMdata
+
+Q: What is DoD Architecture Frameowrk
+A: Provides the guidance and rules for developing, representing, and understanding architectures based on a common denominator across DoD, Joint, and multinational boundaries. It provides insight for external stakeholders into how the DoD develops architectures; Source: DoD pdf
+
+Q: What is Drawing
+A: An engineering document or data set that discloses, directly or by reference, by means of graphic or textual presentations, or by combinations of both, the physical or functional requirements of an item.; Source: ASME Y14.100
+
+Q: What is Effectivity
+A: A designation, defining the product range; e.g., serial numbers, block numbers, batch numbers, lot numbers, model, dates or event, at which a specific product configuration applies, a change is to be or has been affected, or to which a variance applies.; Source: EIA-649C
+
+Q: What is Embedded Software
+A: Software that is used to control a product system and is written into the firmware of the product.; Source: CIMdata
+
+Q: What is Embedded Instrumentation
+A: Data collection and processing capabilities integrated into the design of a system for one or more of the following uses: diagnostics, prognostics, testing, or training; Source: DAU Glossary
+
+Q: What is Engineering Data
+A: Engineering documents such as drawings, associated lists, accompanying documents, specifications, standards, or other information prepared or used by a design activity and relating to the design, manufacture, procurement, testing, or inspection of items.    ; Source: ASME Y14.100
+
+Q: What is Engineering Design Data
+A: Engineering drawings, 3D viewables, native CAD models, neutral CAD models or a combination of these, which define an item by means of graphic and textual presentations, the physical and/or functional requirements of an item, sufficient to fulfill its TDP element and level requirements. Engineering design data comes in three levels corresponding to its TDP level requirements.; Source: MIL-STD 31000B
+
+Q: What is Engineering Drawing Tree
+A: The engineering drawing tree shall be prepared to identify the interrelationships of engineering design data and associated lists that comprise the TDP. The drawing tree shall be in a block diagram format that identifies all system, subsystem, and component documents to be delivered as part of the TDP. The tree shall be structured in top down breakdown order, at the lowest level of assembly (lowest repairable unit) or the lowest component or piece part, as specified in contract.; Source: MIL-STD 31000B
+
+Q: What is Enterprise Information Model
+A: The core metadata and supporting services which SAF/CO will use for enterprise data management; Source: Chief Data Office
+
+Q: What is Fit
+A: The ability of a product to interface or interconnect with, or become an integral part of, another product.; Source: DIA-649C
+
+Q: What is Form
+A: The shape, size, dimensions, and other physically measurable parameters that characterize a product.; Source: DIA-649C
+
+Q: What is Function
+A: The action or actions that a product is designed to perform.; Source: DIA-649C
+
+Q: What is Functional Baseline
+A: Describes the system's performance (functional, interoperability, and interface characteristics) and the verification required to demonstrate the achievement of those specified characteristics. It is directly traceable to the operational requirements contained in the Initial Capabilities Document (ICD) or equivalent document.; Source: GEIA-HB-649A
+
+Q: What is Functional Configuration Management
+A: The information describing the system's functional, performance, interoperability, and interface requirements as well as the verifications required to demonstrate the achievement of those specified requirements.; Source: GEIA-HB-649A
+
+Q: What is Government Reference Architecture
+A: Government-owned Reference Architectures; the authoritative [Government] source of information to guide and constrain mission architectures and solutions. It integrates the data, information, boundary conditions and rules that describe the mission capability needed by the warfighter in sufficient detail to allow for transition of technology-based solutions.; Source: DoD pdf
+
+Q: What is Government Reference Model
+A: Provides the architecture views used to support business case development and investment decisions, monitor capability development, and service improvements. The GRM can be provided to potential bidders for contracted efforts to further the acquisition, development and sustainment; Source: Aerospace Corporation
+
+Q: What is Graphical User Interface
+A: A user interface to a computer program that includes windows, menus, dialog boxes, icon palettes, and other point-and-select command selection methods, and the use of graphics to present and manipulate information. GUIs contrast with text- and forms-based user interfaces found on “dumb” terminals and in most mini- and mainframe-based computing systems.; Source: CIMdata
+
+Q: What is High Performance Computing
+A: Generally refers to the practice of aggregating computing power in a way that delivers much higher performance than one could get out of a typical desktop computer or workstation in order to solve large problems in science, engineering, or business.; Source: USGS
+
+Q: What is Institute of Electrical and Electronics Engineers
+A: The world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity. ; Source: IEEE
+
+Q: What is Integration
+A: Tightest method to interconnecting application programs. Both the PDM system and application look as though they are the same program. One set of user interface menus are used to perform common tasks in both programs so that the user does not have the perception that they are leaving their tool. All types of data are shared directly (that is, native to both), including metadata, documents, product structures, etc; Source: CIMdata
+
+Q: What is Intellectual Property	
+A: Includes inventions, trademarks, patents, industrial designs, copyrights, and technical information including software, data designs, technical know-how, manufacturing information and know-how, techniques, Technical Data Packages (TDPs), manufacturing data packages, and trade secrets.; Source: DAU Glossary
+
+Q: What is Interface Control	
+A: A part, assembly, installation, or production system that defines or controls the interface(s) to a system and thereby binds its requirements.; Source: ASME Y14.100	
+
+Q: What is International Council on Systems Engineering	
+A: A not-for-profit membership organization founded in 1990 to develop and spread the interdisciplinary principles and practices that enable successful systems. ; Source: INCOSE
+
+Q: What is Internet of Things
+A: Refers to the use of computing networks (including the Internet) to connect devices such as machines, each with some embedded intelligence and sensors, so they can collect and share information.; Source: CIMdata
+
+Q: What is Interoperability	
+A: The ability of two or more systems or components to exchange information and to use the information that has been exchanged. For example, interoperable tools have access to and use the original data, not translated data or copies of the data.; Source: CIMdata
+
+Q: What is Life Cycle Sustainment Plan	
+A: Initially prepared for Milestone A and updated for the Development Request for Proposal (RFP) Release Decision Point, Milestone B, Milestone C, Full-Rate Production Decision Review (FRPDR) and at least every 5 years after a system's Initial Operational Capability (IOC). It documents life cycle sustainment planning initialized during the Materiel Solution Analysis (MSA) Phase and the evolution of sustainment planning through the other acquisition phases (Technology Maturation and Risk Reduction (TMRR), Engineering and Manufacturing Development (EMD), Production and Deployment (P&D)) and throughout the system's life cycle to disposal. The LCSP addresses how the Program Manager (PM) and other organizations will acquire and maintain oversight of the fielded system; Source: DAU Glossary
+
+Q: What is Logical Data Model
+A: A data model of a specific problem domain expressed independently of a particular database management product or storage technology (physical data model) but in terms of data structures such as relational tables and columns, object-oriented classes, or XML tags. This is as opposed to a conceptual data model, which describes the semantics of an organization without reference to technology.; Source: DoDAF V2.0 DoDAF V1.5
+
+Q: What is Metadata
+A: Describes the data along different dimensions, such that users are able to find and understand data, judge its quality and trustworthiness, and more effectively use data for analysis and decision making.; Source: Chief Data Office
+
+Q: What is Mission Engineering
+A: The deliberate planning, analyzing, organizing, and integrating of current and emerging operational and system capabilities to achieve desired war fighting mission effects; Source: DAU Glossary
+
+Q: What is Models
+A: A representation of an actual or conceptual system that involves mathematics, logical expressions, or computer simulations that can be used to predict how the system might perform or survive under various conditions or in A range of hostile environments; Source: DAU Glossary
+
+Q: What is Model Based Definition	
+A: The practice of using 3D solid models to document additional information about a design, such as PMI (product manufacturing information) and associated metadata. The PMI information is embedded directly in the solid models and is associated with the geometric elements of the design.; Source: CIMdata
+
+Q: What is Model Based Engineering	
+A: n approach to engineering that uses mathematical models (not only CAD models) as an integral part of the technical baseline definition that includes the requirements, analysis, design, implementation, and verification of a capability, system, or product throughout the acquisition lifecycle. The design may be documented in associated drawings or as Model-Based Designs. Models are the authoritative definition of the system. Recent references to model-based engineering have focused on “Model-Based Systems Engineering; Source: CIMdata
+
+Q: What is Model-Based Engineering
+A: An approach to engineering in which models are an integral part of the technical baseline; evolve throughout the acquisition life cycle, are integrated across all program disciplines (e.g., systems engineering, operations analysis, software engineering, hardware engineering, manufacturing, logistics, etc.), and can be shared and/or reused across acquisition programs, including between Government and Industry stakeholders.; Source: NDIA, MBE Subcommittee
+
+Q: What is Model-Based Enterprise	
+A: An integrated and collaborative environment founded on 3D product definition detailed and shared across the enterprise—to enable rapid, seamless, and affordable deployment of products from concept through life.; Source: CIMdata
+
+Q: What is Model-Based Systems Engineering	
+A: The formalized application of various levels of modeling to support system requirements, design, analysis, verification, and validation activities beginning in the conceptual design phase and continuing throughout development and later lifecycle phases.; Source: CIMdata
+
+Q: What is Modeling and Simulation
+A: 1) n. The discipline that comprises the development and/or use of models and simulations (DoDD 5000.59). 2) v. The use of models and simulations, either statically or over time to develop data as a basis for making managerial or technical decision. This includes but is not limited to emulators, prototypes, simulators and stimulators (DoDI 5000.61); Source: DoDI 5000 Series
+
+Q: What is Object Management Group
+A: An international, open membership, not-for-profit technology standards consortium, founded in 1989. OMG standards are driven by vendors, end-users, academic institutions and government agencies.; Source: OMG
+
+Q: What is Open System
+A: A system whose technical architecture adopts open standards and supports a modular, loosely coupled, and highly cohesive system structure. This modular open architecture includes publishing of key interfaces within the system and relevant design disclosure.; Source: DAU Glossary
+
+Q: What is Part
+A: One item, or two or more items joined together, that is not normally subject to disassembly without destruction or impairment of designed use, e.g., transistor, composition resistor, screw, transformer, and gear.; Source: ASME Y14.100
+
+Q: What is Physical Data Model
+A: A representation of a data design as implemented, or intended to be implemented, in a database management system. In the lifecycle of a project it typically derives from a logical data model, though it may be reverse-engineered from a given database implementation. A complete physical data model will include all the database artifacts required to create relationships between tables or to achieve performance goals, such as indexes, constraint definitions, linking tables, partitioned tables or clusters. Analysts can usually use a physical data model to calculate storage estimates; it may include specific storage allocation details for a given database system.; Source: DoDAF V2.0
+
+Q: What is Product and Manufacturing Information	
+A: Data pertinent to manufacturing a product including information such as tolerances, reference dimensions, datum points for quality processes, surface finish, material specifications, etc. This data has historically been included in drawings to be used in manufacturing operations. MCAD solutions may also store the PMI in the 3D CAD model, from where it can be added automatically to drawings or accessed by viewing the 3D CAD model.; Source: CIMdata
+
+Q: What is Product Baseline
+A: Describes the detailed design at a specific point in time, for production, fielding/deployment, and operations and support. The PBL prescribes all necessary physical (form, fit, or function) characteristics and selected functional characteristics designated for production acceptance testing and production test requirements.The initial PBL includes "build-to" specifications for hardware (product, process, material specifications, engineering drawings, 3D Computer Aided Design (CAD) models, and other related data) and software (software module design - "codeto" specifications). The As- Delivered and subsequent PBLs add product operational information needed to operate and maintain the product.; Source: GEIA-HB-649A
+
+Q: What is Product Configuration Documentation
+A: A CI's detailed design documentation including those verifications necessary for accepting product deliveries (first article and acceptance inspections). Based on program production/procurement strategies, the design information contained in the PCD can be as simple as identifying a specific part number or as complex as full design disclosure.; Source: GEIA-HB-649A	
+
+Q: What is Product Definition Data
+A: Denotes the totality of product definition elements required to completely define a product. Product definition data includes geometry, topology, relationships, tolerances, attributes, and features necessary to completely define a component part or an assembly of parts for the purpose of design,
+analysis, manufacture, test, and inspection.; Source: ASME Y14.100
+
+Q: What is Product Definition Elements
+A: Engineering design data which describes the complete physical and/or performance characteristics of an item or component in sufficient detail, to ensure that an item or component produced in accordance with this data will be essentially identical to the original item or component.; Source: MIL-STD 31000B - 3.1.18.3
+
+Q: What is Product Lifecycle Management
+A: A strategic business approach that applies a consistent set of business solutions in support of the collaborative creation, management, dissemination, and use of product definition information across the extended enterprise, and spanning from product concept to end of life—integrating people, processes, business systems, and information; Source: CIMdata
+
+Q: What is Quality Assurance
+A: A planned and systematic approach to determine that a product conforms to established technical requirements.; Source: CIMdata
+
+Q: What is Quality Assurance Provisions	
+A: Documented requirements, procedures and criteria necessary for demonstrating that products conform to design requirements.; Source: MIL-STD-31000B
+
+Q: What is Reference Architecture
+A: An authoritative source of information about a specific subject area that guides and constrains the instantiations of multiple architectures and solutions. ; Source: DoD Reference Architecture pdf
+
+Q: What is Request for proposal
+A: A document used in negotiated acquisitions to communicate Government requirements to prospective contractors and to solicit proposals. RFPs for competitive acquisitions describe the Government's requirement, anticipated terms and conditions that will apply to the contract, information required to be in the offeror's proposal, and factors and significant sub-factors that will be used to evaluate the proposal and their relative importance.; Source: DAU Glossary
+
+Q: What is Request for Variance
+A: The means by which a manufacturer or supplier requests permission to depart from the product definition information for (1) a specific unit, (2) a specific number of units, or (3) a specific period of time without requiring revision of the product definition information.; Source: EIA-649C
+
+Q: What is Requirements Analysis
+A: Systems Engineering (SE) technical process that results in the decomposition of end-user needs (usually identified in operational terms at the system level during implementation of the Stakeholder Requirements Definition process). As the system design evolves, Requirements Analysis activities support allocation and derivation of requirements down to the system elements representing the lowest level of the design. The allocated requirements form the basis of contracting language and the system performance specification. The resultant system requirements are addressed at technical reviews and audits throughout the acquisition life cycle and captured in applicable program and SE technical documentation.; Source: DAU Glossary
+
+Q: What is Special Packaging Instruction
+A: Instructions which document military packaging requirements for an item, as distinct from commercial packaging.  These instructions cover methods of preservation to protect materiel against environmentally induced corrosion and deterioration, physical and mechanical damage, and other forms of degradation during storage, multiple handling and shipment of materiel in the defense transportation system.; Source: MIL-STD-2073-1
+
+Q: What is Specification	
+A: A document that describes essential technical requirements for material and the criteria for determining whether those requirements are met.; Source: ASME Y14.100
+
+Q: What is Statement of Work
+A: That portion of a contract that establishes and defines all non-specification requirements for contractor's efforts either directly or with the use of specific cited documents.; Source: DAU Glossary
+
+Q: What is Systems Modeling Language
+A: A general-purpose architecture modeling language for Systems Engineering applications. SysML supports the specification, analysis, design, verification, and validation of a broad range of systems and systems-of-systems. These systems may include hardware, software, information, processes, personnel, and facilities.
+SysML is a dialect of UML 2, and is defined as a UML 2 Profile. (A UML Profile is a UML dialect that customizes the language via three mechanisms: Stereotypes, Tagged Values, and Constraints.)
+SysML is an enabling technology for Model-Based Systems Engineering; Source: SysML
+
+Q: What is Technical Data
+A: Recorded information, regardless of the form or method of the recording, of a scientific or technical nature (including computer software documentation).     The term does not include computer software or data incidental to contract administration, such as financial or management information.; Source: DFARS Clause 252.227-7013
+
+Q: What is Technical Data Package
+A: 1. A description of an item adequate for supporting an acquisition, production, engineering, and logistics support (e.g. Engineering Data for Provisioning, Training, and Technical Manuals  2. Recorded information of scientific or technical nature, regardless of form or character (such as equipment technical manuals and engineering drawings), engineering data, specifications, standards and Data Item Descriptions (DID). Data rights, data delivery, as well as use of any source controlled data as part of this element are included in technical data as are “as maintained” bills of material and system configuration identified by individual configuration item. Technical data does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.; Source: ACQ NOTES
+
+Q: What is Technical Data Package
+A: The authoritative technical description of an item. This technical description supports the acquisition, production, inspection, engineering, and logistics support of the item. The description defines the required design configuration and/or performance requirements, and procedures required to ensure adequacy of item performance. It consists of applicable technical data such as models, engineering design data, associated lists, specifications, standards, performance requirements, quality assurance provisions, software documentation and packaging details.; Source: MIL-STD 31000B
+
+Q: What is Test and Evaluation Master Plan
+A: Documents the overall structure and objectives of the Test and Evaluation (T&E) program. It provides a framework within which to generate detailed T&E plans and documents schedule and resource implications associated with the T&E program. The TEMP identifies the necessary Developmental Test and Evaluation (DT&E), Operational Test and Evaluation (OT&E), and Live Fire Test and Evaluation (LFT&E) activities. It relates program schedule, test management strategy and structure, and required resources to: Critical Operational Issues (COIs), Critical Technical Parameters (CTPs), objectives and thresholds documented in the Capability Development Document (CDD), evaluation criteria, and milestone decision points. For multi- Service or joint programs, a single integrated TEMP is required. Component-unique content requirements, particularly evaluation criteria associated with COIs, can be addressed in a component-prepared annex to the basic TEMP.; Source: DAU Glossary
+
+Q: What is Unified Modeling Language
+A: A specification defining a graphical language for visualizing, specifying, constructing, and documenting the artifacts of distributed object systems.; Source: About UML
+
+Q: What is Validation
+A: 1.) The review and approval of capability requirement documents by a designated  validation authority. 2.) The process by which the contractor (or as otherwise directed by the DoD Component procuring activity) tests a publication/technical manual for technical accuracy and adequacy. 3.) The process of evaluating a system or software component during, or at the end of, the development process to determine whether it satisfies specified requirements. In the context of Modeling and Simulation Validation means the process of determining the degree to which a model or simulation and its associated data accurately represent the real world from the perspective of the model's intended uses.; Source: DAU Glossary
+
+Q: What is Variance
+A: A departure from approved product definition information, for a limited amount of time or for a specified effectivity, that does not require revision of approved product definition information.; Source: EIA-649C
+
+Q: What is Verification
+A: Confirms that a system element meets design-to or build-to specifications. Throughout the system's life cycle, design solutions at all levels of the physical architecture are verified through a cost-effective combination of analysis, examination, demonstration, and testing. In the context of Modeling and Simulation Verification means the process of determining that a model or simulation implementation and its associated data accurately represent the developer's conceptual description and specifications.; Source: DAU Glossary
+
+Q: What is Verification and Validation Agent
+A: This person or organization designated to perform the verification, validation, or both, of a model, simulation, or federation of models and simulations, and their associated data.  ; Source: Mil-STD-3022
+
+Q: What is Virtual Machine
+A: A computer file, typically called an image, that behaves like an actual computer. In other words, creating a computer within a computer. It runs in a window, much like any other program, giving the end user the same experience on a virtual machine as they would have on the host operating system itself. The virtual machine is sandboxed from the rest of the system, meaning that the software inside a virtual machine can’t escape or tamper with the computer itself. This produces an ideal environment for testing other operating systems including beta releases, accessing virus-infected data, creating operating system backups, and running software or applications on operating systems they weren’t originally intended for; Source: Azure: What is a virtual machine?
+
+Q: What is Virtual Desktop Environment/Infrastructure
+A: Defined as the hosting of desktop environments on a central server. It is a form of desktop virtualization, as the specific desktop images run within virtual machines (VMs) and are delivered to end clients over a network. Those endpoints may be PCs or other devices, like tablets or thin client terminals; Source: Citrix.com Glossary
+
+Q: What is Digital Enterprise Integrated Digital Environment IDE
+A: The digital enterprise is the computing environment that enables DE tools and processes to design develop test verify validate and certify the system A digital enterprise may consist of multiple environments all of which operate at the necessary security levels The digital enterprise will be a combination of contractor and Government environments that contain the appropriate system access licensure roles and permissions
+
+Q: What is Model Integration and Traceability Digital Thread
+A: Integration of Model Based Systems Engineering MBSE Product Lifecycle Management PLM physics-based Model Based Definition MBD and Other Models with bi-directional traceability Traceability up/down the authoritative source s of truth ASOT data e g mission needs operations capabilities CONOPS operational concepts system requirements design product test with programmatic and resource relationships that traces links and ties the MBSE PLM physics MBD and Other models
+
+Q: What is Product Lifecycle Management PLM systems
+A: MBSE physics-based MBD other models and supportability data should be interfaced with a PLM system to support program management CM effectivity management BOM management workflows etc The level of integration in either the Government or contractor environment is dependent on program specific requirements
+
+Q: What is Program Specific Model Based Systems Engineering MBSE Model
+A: The program specific MBSE model should encompass applicable Government reference architectures and models if available The program specific MBSE system model should also include all user and program office requirements as well as all known interfaces The program specific MBSE system model can either be created by the Government or contractor depending on the needs of the program
+
+Q: What is Integrated Business Operations
+A: The Digital representation supporting financial analysis and decision support to include Earned Value Management EVM cost risk and schedule analysis as deemed necessary by program leadership Assessments based on baseline program schedule subsystem development and integration relationship and estimated value over time Decision analytics should be supported by data modules to ensure the program is meeting cost schedule and performance requirements
+
+Q: What is Digital Reference Library pre-award
+A: The Digital Reference Library is established by the Government It is used by the Government to manage its models and model artifacts that are configuration managed and data managed Acquisition programs select specific contents for use by potential bidders to provide proposals in response to an RFP
+
+Q: What is Model Access
+A: Model access is the ability to copy read edit use or download contractor models for analysis review and/or acceptance Intent is timely insight into and usage of MBSE PLM physics-based MBD and other models prior to / outside of delivery of any data or actual models including the Software Development Environment Does not normally include ability to modify models unless specified as a contract requirement User roles should be defined and managed Multiple use methods/feature choices are possible
+
+Q: What is Digital Twins
+A: Digital Twins are models that provide a representation of the system or product at a sufficient level of fidelity to meet organizational objectives These partial digital twins use the best available data models sensor information and input data to mirror and predict activities and/or performance over the life of its corresponding physical twin We use the term partial digital twin to recognize the fact integrated multi-physics multiscale probabilistic simulation of an entire weapon system is very difficult to achieve Note Before physical asset exists digital twin is a model
+
+Q: What is Authoritative Source of Truth ASOT
+A: ASOT is the authoritative/definitive technical data and associated digital artifacts shared across all IPT members and functions Ideally implemented within a digital system model Includes Gov t artifacts not necessarily created by contractor The ASOT enables delivery of the right data to the right person for the right use at the right time The ASOT is both configuration and data managed
+
+Q: What is Metrics
+A: Assess maturity of Digital Engineering DE Implementation on the program at regular intervals and set program goals to improve by each milestone Using metrics available on AF Digital Guide Secondly any metrics that would benefit the program by being implemented within a program s digital ecosystem
+
+Q: What is Physics based analysis models
+A: Models that are needed to define performance characteristics math and physical models and algorithms These models can often be considered partial digital twins
+
+Q: What is Verification validation certifications and accreditations VVCA
+A: System verification validation certification and accreditation requirements should be managed within the Program-specific MBSE system model or requirements management system System verification validation certification and accreditation data/artifacts should be contained within the digital environment and routed through a PLM workflow The level of VV A depends on the types and criticality of decisions to be made It is recommended to use models for preliminary phases of VV A with the final release using real-world testing to verify/validate the models
+
+Q: What is Model Based Definition MBD
+A: The program-specific MBSE model defines Hardware/software/firmware requirements analysis of requirements system architecture design interfaces failure modes effects analysis/failure modes effects criticality analysis hazard tracking/analysis certifications integrity program compliance functional thread analysis safety critical functional thread SCFTA analysis and associated allocations The MBD contains an integrated view of the entire system a k a fly through to show design maturity and ensure consistent communication between different designers The MBD should contain fully annotated 3D digital models of the system including dimensions tolerances materials finishes and other notes to specify a complete product definition
+
+Q: What is Model Data Intellectual Property Identification
+A: This feature provides additional approaches complementing existing statute and regulation for negotiation of data rights Unlimited limited Government Purpose Rights Specially Negotiated Rights Refer to AF Data Rights Guidebook for additional information on how to require acquire and manage technical data in a digital acquisition program Intellectual Property Identification is applicable to MBSE PLM physics-based MBD and other models developed by contractors
+
+Q: What is Model Data Delivery Acceptance
+A: Model Data Delivery defines the format and availability of the data from the model to either provide deliveries against CDRL/DID requirements and/or the capability to produce digital views from model viewpoints to provide user information CDRLs/DIDs specify format views and review/audit event information views and delivered data permit digital acceptance Model Data Delivery includes delivery of the MBSE PLM physics-based MBD or Other models and associated model scripts
+
+Q: What is Model Configuration Items
+A: Model Configuration items are connected model elements that provide information to identify functional allocated and product baselines performance measures such as KPI or TPMs identify digital twins or digital threads and identify intellectual property interfaces as well as security marking Model CIs are trackable connected model elements under configuration management control
+
+Q: What is Model Configuration Management
+A: Models and the authoritative source s of truth are configuration managed as Model Configuration Items Model Configuration Items are trackable connected model elements under configuration management control and may make up a functional allocated and product baseline Model-based baseline management will be performed as specified with the program CDRLs /DIDs
+
+Q: What is Model Portfolio Management
+A: Activity to manage a collection of MBSE PLM physics-based MBD or Other models May include both Government and Contractor Models Includes Governance model construction model repositories model re-use and model developments This is not model configuration management of specific models
+
+Q: What is MBSE Model Development and Maintenance
+A: MBSE System Model should be developed in a consistent manner with reference architectures models and style guides A system model maintenance strategy needs to be considered up front Model construction specifies the model language ontologies mid-level reference or domain tool versions organizational practices and Application Programming Interfaces APIs Appropriate compliance and reference standards are identified
+
+Q: What is Model-Based Reviews and Audits
+A: Model Based Reviews and Audits use the models to generate information against the review and audit criteria This will depend on the government placing
